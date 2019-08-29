@@ -4,7 +4,7 @@
 
 *Frontend version*: Paper Dashboard v2.0.1. More info at https://www.creative-tim.com/product/paper-dashboard-pro/?ref=pdl-readme
 
-![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/paper-dashboard-pro-laravel/intro.gif?raw=true)
+![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/paper-dashboard-2-pro-laravel/intro.gif?raw=true)
 
 Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 5.5 and up.
 
@@ -325,11 +325,11 @@ The policy which authorizes the user on item management pages is implemented in 
 
 | Register | Login | Dashboard |
 | --- | --- | ---  |
-| [![Register](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-pro-laravel/register.png)](https://paper-dashboard-pro-laravel.creative-tim.com/register?ref=pdl-readme)  | [![Login](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-pro-laravel/login.png)](https://paper-dashboard-pro-laravel.creative-tim.com/login?ref=pdl-readme)  | [![Dashboard](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-pro-laravel/dashboard.png)](https://paper-dashboard-pro-laravel.creative-tim.com/?ref=pdl-readme)
+| [![Register](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-2-pro-laravel/register.png)](https://paper-dashboard-pro-laravel.creative-tim.com/register?ref=pdl-readme)  | [![Login](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-2-pro-laravel/login.png)](https://paper-dashboard-pro-laravel.creative-tim.com/login?ref=pdl-readme)  | [![Dashboard](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-2-pro-laravel/dashboard.png)](https://paper-dashboard-pro-laravel.creative-tim.com/?ref=pdl-readme)
 
 | Profile Page | Users Page | Tables Page  |
 | --- | --- | ---  |
-| [![Profile Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-pro-laravel/profile.png)](https://paper-dashboard-pro-laravel.creative-tim.com/profile?ref=pdl-readme)  | [![Users Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-pro-laravel/users.png)](https://paper-dashboard-pro-laravel.creative-tim.com/user?ref=pdl-readme) | [![Tables Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-pro-laravel/tables.png)](https://paper-dashboard-pro-laravel.creative-tim.com/table-list?ref=pdl-readme)
+| [![Profile Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-2-pro-laravel/profile.png)](https://paper-dashboard-pro-laravel.creative-tim.com/profile?ref=pdl-readme)  | [![Users Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-2-pro-laravel/users.png)](https://paper-dashboard-pro-laravel.creative-tim.com/user?ref=pdl-readme) | [![Tables Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-2-pro-laravel/tables.png)](https://paper-dashboard-pro-laravel.creative-tim.com/table-list?ref=pdl-readme)
 [View More](https://paper-dashboard-pro-laravel.creative-tim.com/?ref=pdl-readme)
 
 ## Documentation
