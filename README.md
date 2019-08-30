@@ -1,8 +1,8 @@
-# [Paper Dashboard 2 Pro Laravel](https://paper-dashboard-pro-laravel.creative-tim.com/?ref=pdl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Dashboard%20Pro%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//paper-dashboard-pro-laravel.creative-tim.com/%20%23%material%20%23design%20%23dashboard%20%23laravel%20%23pro%20via%20%40CreativeTim)
+# [Paper Dashboard Pro Laravel](https://www.creative-tim.com/live/paper-dashboard-pro-laravel/?ref=pdl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Dashboard%20Pro%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//paper-dashboard-pro-laravel.creative-tim.com/%20%23%material%20%23design%20%23dashboard%20%23laravel%20%23pro%20via%20%40CreativeTim)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-paper-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-paper-dashboard-pro-laravel/ct-paper-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
-*Frontend version*: Paper Dashboard v2.0.1. More info at https://www.creative-tim.com/product/paper-dashboard-pro/?ref=pdl-readme
+*Frontend version*: Paper Dashboard v2.0.1. More info at https://www.creative-tim.com/product/paper-dashboard-2-pro/?ref=pdl-readme
 
 ![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/paper-dashboard-2-pro-laravel/intro.gif?raw=true)
 
@@ -21,7 +21,7 @@ Also, you will need to install Composer: https://getcomposer.org/doc/00-intro.md
 ## Installation
 
 1. Unzip the downloaded archive
-2. Copy and paste **paper-dashboard-2-master** folder in your **projects** folder. Rename the folder to your project's name
+2. Copy and paste **paper-dashboard-master** folder in your **projects** folder. Rename the folder to your project's name
 3. In your terminal run `composer install`
 4. Copy `.env.example` to `.env` and updated the configurations (mainly the database configuration)
 5. In your terminal run `php artisan key:generate`
@@ -319,7 +319,7 @@ The policy which authorizes the user on item management pages is implemented in 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Paper Dashboard 2 Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/paper-dashboard-pro/examples/dashboard.html?ref=pdl-readme) | [![Paper Dashboard 2 Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://paper-dashboard-pro-laravel.creative-tim.com/?ref=pdl-readme)
+| [![Paper Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/84/original/opt_pd2p_thumbnail.jpg)](https://demos.creative-tim.com/paper-dashboard-pro/examples/dashboard.html?ref=pdl-readme) | [![Paper Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/208/original/opt_pdp_laravel_thumbnail.jpg)](https://www.creative-tim.com/live/paper-dashboard-pro-laravel/?ref=pdl-readme)
 
 ## Demo
 
@@ -330,10 +330,10 @@ The policy which authorizes the user on item management pages is implemented in 
 | Profile Page | Users Page | Tables Page  |
 | --- | --- | ---  |
 | [![Profile Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-2-pro-laravel/profile.png)](https://paper-dashboard-pro-laravel.creative-tim.com/profile?ref=pdl-readme)  | [![Users Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-2-pro-laravel/users.png)](https://paper-dashboard-pro-laravel.creative-tim.com/user?ref=pdl-readme) | [![Tables Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-dashboard-2-pro-laravel/tables.png)](https://paper-dashboard-pro-laravel.creative-tim.com/table-list?ref=pdl-readme)
-[View More](https://paper-dashboard-pro-laravel.creative-tim.com/?ref=pdl-readme)
+[View More](https://www.creative-tim.com/live/paper-dashboard-pro-laravel/?ref=pdl-readme)
 
 ## Documentation
-The documentation for the Paper Dashboard 2 Laravel is hosted at our [website](https://paper-dashboard-pro-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=pdl-readme).
+The documentation for the Paper Dashboard Laravel is hosted at our [website](https://www.creative-tim.com/live/paper-dashboard-pro-laravel/?start-page=/docs/getting-started/laravel-setup.html&ref=pdl-readme).
 
 ## File Structure
 ```
@@ -1149,9 +1149,9 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- Demo: <https://paper-dashboard-pro-laravel.creative-tim.com/?ref=pdl-readme>
+- Demo: <https://www.creative-tim.com/live/paper-dashboard-pro-laravel/?ref=pdl-readme>
 - Download Page: <https://www.creative-tim.com/product/paper-dashboard-pro-laravel?ref=pdl-readme>
-- Documentation: <https://paper-dashboard-pro-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=pdl-readme>
+- Documentation: <https://www.creative-tim.com/live/paper-dashboard-pro-laravel/?start-page=/docs/getting-started/laravel-setup.html&ref=pdl-readme>
 - License Agreement: <https://www.creative-tim.com/license?ref=pdl-readme>
 - Support: <https://www.creative-tim.com/contact-us?ref=pdl-readme>
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/paper-dashboard-pro-laravel/issues)
@@ -1159,7 +1159,7 @@ At present, we officially aim to support the last two versions of the following 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Paper Dashboard 2 Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/paper-dashboard-pro/examples/dashboard.html?ref=pdl-readme) | [![Paper Dashboard 2 Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://paper-dashboard-pro-laravel.creative-tim.com/?ref=pdl-readme)
+| [![Paper Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/84/original/opt_pd2p_thumbnail.jpg)](https://demos.creative-tim.com/paper-dashboard-pro/examples/dashboard.html?ref=pdl-readme) | [![Paper Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/208/original/opt_pdp_laravel_thumbnail.jpg)](https://www.creative-tim.com/live/paper-dashboard-pro-laravel/?ref=pdl-readme)
 
 ## Change log
 
@@ -1172,9 +1172,9 @@ Please see the [changelog](CHANGELOG.md) for more information on what has change
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Paper Dashboard 2 Laravel. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Paper Dashboard Laravel. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Paper Dashboard 2 Laravel. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=pdl-readme).
+1. Make sure that you are using the latest version of the Paper Dashboard Laravel. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=pdl-readme).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
