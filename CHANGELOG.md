@@ -1,11 +1,11 @@
 # Changelog
 
-All notable changes to `Laravel Paper Dashboard 2 Pro` theme for Laravel will be documented in this file.
+All notable changes to `Laravel Paper Dashboard Pro` theme for Laravel will be documented in this file.
 
 ## Version 1.0.0
 
 ### Added
-- Paper Dashboard 2 Pro v2.0.1 frontend theme
+- Paper Dashboard Pro v2.0.1 frontend theme
 - Laravel Auth preset
 - Change user profile
 - User CRUD
@@ -14,3 +14,7 @@ All notable changes to `Laravel Paper Dashboard 2 Pro` theme for Laravel will be
 - Category CRUD
 - Item CRUD
 - User roles & access restrictions
+
+## Version 1.0.1
+
+- Update to Laravel 6.x
