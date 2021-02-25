@@ -1154,7 +1154,7 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation: <https://www.creative-tim.com/live/paper-dashboard-pro-laravel/?start-page=/docs/getting-started/laravel-setup.html&ref=pdl-readme>
 - License Agreement: <https://www.creative-tim.com/license?ref=pdl-readme>
 - Support: <https://www.creative-tim.com/contact-us?ref=pdl-readme>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/paper-dashboard-pro-laravel/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-paper-dashboard-pro-laravel/issues)
 - **Dashboards:**
 
 | HTML | LARAVEL |
@@ -1181,7 +1181,7 @@ We use GitHub Issues as the official bug tracker for the Paper Dashboard Laravel
 ## Licensing
 
 - Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=pdl-readme)
-- [Creative Tim License](https://www.creative-tim.com/license?ref=pdl-readme).
+- Creative Tim License (https://www.creative-tim.com/license?ref=pdl-readme).
 
 
 ## Useful Links
