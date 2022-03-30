@@ -6,7 +6,7 @@
 
 [<img src="https://s3.amazonaws.com/creativetim_bucket/products/208/original/opt_pdp_laravel_thumbnail.jpg" width="100%" />](https://www.creative-tim.com/live/paper-dashboard-pro-laravel/?ref=pdl-readme)
 
-Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 8.x and up.
+Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 9.x and up.
 
 ## Prerequisites
 
