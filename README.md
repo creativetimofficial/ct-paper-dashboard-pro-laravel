@@ -1,12 +1,12 @@
-# [Paper Dashboard Pro Laravel](https://www.creative-tim.com/live/paper-dashboard-pro-laravel/?ref=pdl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Dashboard%20Pro%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//paper-dashboard-pro-laravel.creative-tim.com/%20%23%material%20%23design%20%23dashboard%20%23laravel%20%23pro%20via%20%40CreativeTim)
+# 2 [Paper Dashboard Pro Laravel](https://www.creative-tim.com/live/paper-dashboard-pro-laravel/?ref=pdl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Dashboard%20Pro%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//paper-dashboard-pro-laravel.creative-tim.com/%20%23%material%20%23design%20%23dashboard%20%23laravel%20%23pro%20via%20%40CreativeTim)
 
 ![version](https://img.shields.io/badge/version-1.0.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-paper-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-paper-dashboard-pro-laravel/ct-paper-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
 *Frontend version*: Paper Dashboard v2.0.1. More info at https://www.creative-tim.com/product/paper-dashboard-2-pro/?ref=pdl-readme
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/products/208/original/opt_pdp_laravel_thumbnail.jpg" width="100%" />](https://www.creative-tim.com/live/paper-dashboard-pro-laravel/?ref=pdl-readme)
+![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/paper-dashboard-2-pro-laravel/intro.gif?raw=true)
 
-Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 9.x and up.
+Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 5.5 and up.
 
 ## Prerequisites
 
@@ -1154,7 +1154,7 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation: <https://www.creative-tim.com/live/paper-dashboard-pro-laravel/?start-page=/docs/getting-started/laravel-setup.html&ref=pdl-readme>
 - License Agreement: <https://www.creative-tim.com/license?ref=pdl-readme>
 - Support: <https://www.creative-tim.com/contact-us?ref=pdl-readme>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-paper-dashboard-pro-laravel/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/paper-dashboard-pro-laravel/issues)
 - **Dashboards:**
 
 | HTML | LARAVEL |
@@ -1181,7 +1181,7 @@ We use GitHub Issues as the official bug tracker for the Paper Dashboard Laravel
 ## Licensing
 
 - Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=pdl-readme)
-- Creative Tim License (https://www.creative-tim.com/license?ref=pdl-readme).
+- [Creative Tim License](https://www.creative-tim.com/license?ref=pdl-readme).
 
 
 ## Useful Links
