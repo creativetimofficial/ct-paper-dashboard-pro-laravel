@@ -26,3 +26,7 @@ All notable changes to `Laravel Paper Dashboard Pro` theme for Laravel will be d
 ## Version 1.0.3
 
 - Update to Laravel 8.x
+
+  ## Version 1.1.0
+  
+ - Update to Laravel 11.x
